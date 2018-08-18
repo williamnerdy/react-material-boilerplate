@@ -1,0 +1,5 @@
+{
+  "jest.pathToJest": "node_modules/.bin/jest --debug",
+  "flow.pathToFlow": "${workspaceRoot}/node_modules/.bin/flow",
+  "javascript.validate.enable": false
+}
